@@ -116,6 +116,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [Monkeyble](https://hewlettpackard.github.io/monkeyble/) - A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions.
 - [aar-doc - Automated Ansible Role Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 - [antsichaut](https://github.com/ansible-community/antsichaut) - automate the filling of a changelog.yaml used by antsibull-changelog. 
+- [SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - SSM is user-friendly, UI/UX focused server & configuration management tool powered by Ansible & Docker 
 
 ## Blog posts and opinions
 
